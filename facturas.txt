@@ -3,3 +3,4 @@ Factura A 001: $12.786
 Factura B 138: $53221
 Factura C 112: $320998
 Factura D 007: $298000
+Factura E 008: $120000

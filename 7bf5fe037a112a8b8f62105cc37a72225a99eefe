@@ -1,0 +1,98 @@
+[33mcommit 7bf5fe037a112a8b8f62105cc37a72225a99eefe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Franco <fraancogodoy@hotmail.com>
+Date:   Mon Oct 5 16:58:21 2026 -0300
+
+    Realize informe de entregas
+
+[33mcommit fe0735eb9d10c07dd7998ce341bc28bb7a9aa0a7[m
+Author: Franco <fraancogodoy@hotmail.com>
+Date:   Mon Oct 5 16:55:02 2026 -0300
+
+    Reporte de recorrido
+
+[33mcommit cadc3141df501e3d273f9015080850e95ee8e207[m
+Author: Franco <fraancogodoy@hotmail.com>
+Date:   Mon Oct 5 16:48:33 2026 -0300
+
+    Reporte de recorrido
+
+[33mcommit f684a2ccb3d5a93c8aa66db27c956fcaf1465302[m
+Author: Franco <fraancogodoy@hotmail.com>
+Date:   Mon Oct 5 16:38:43 2026 -0300
+
+    agregue hoja de ruta en recorridos
+
+[33mcommit d358ea9b0b6b23dd905efb2bec24870df9ec337e[m
+Author: catalina <frisorgercatalina7@gmail.com>
+Date:   Mon Oct 5 16:43:04 2026 -0300
+
+    Añadido archivo
+
+[33mcommit b5b701e0f431efd484c187243099e72782492c78[m
+Merge: 0aaae85 9065f36
+Author: catalina <frisorgercatalina7@gmail.com>
+Date:   Mon Oct 5 16:40:38 2026 -0300
+
+    Merge branch 'master' of https://github.com/Martuf4/tpEspecial-tio
+
+[33mcommit 9065f3612c211448c1c7b148e87d75ab6ec8d911[m
+Author: Martina <martuferreras4@gmail.com>
+Date:   Mon Oct 5 16:38:42 2026 -0300
+
+    Agregado mas stock inicial
+
+[33mcommit 0aaae857739925655933f75cf90b00410e3e2c2e[m
+Merge: 3f1092a 9e6aad7
+Author: catalina <frisorgercatalina7@gmail.com>
+Date:   Mon Oct 5 16:37:12 2026 -0300
+
+    Merge branch 'master' of https://github.com/Martuf4/tpEspecial-tio
+
+[33mcommit 3f1092ab016b8fb6322f61e00242e43d83ee6cca[m
+Author: catalina <frisorgercatalina7@gmail.com>
+Date:   Mon Oct 5 16:35:33 2026 -0300
+
+    modifique archivo operaciones
+
+[33mcommit 9e6aad7d7693dec0349e8847c733545eaa42ab7f[m
+Merge: 1680c9b cc3dee0
+Author: Franco <fraancogodoy@hotmail.com>
+Date:   Mon Oct 5 16:31:04 2026 -0300
+
+    Cerrando merge pendiente
+
+[33mcommit f32fb793981677595ebb36f1fa4134d93bc852c4[m
+Author: catalina <frisorgercatalina7@gmail.com>
+Date:   Mon Oct 5 16:30:53 2026 -0300
+
+    Añadido archivo facturas
+
+[33mcommit 1680c9ba380e8cef54fc4549373fcb1a2c1576ff[m
+Author: Franco <fraancogodoy@hotmail.com>
+Date:   Mon Oct 5 16:26:22 2026 -0300
+
+    creacion archivo de recorridos
+
+[33mcommit cc3dee04a58edfd57f2c2535681590152492b276[m
+Author: Martina <martuferreras4@gmail.com>
+Date:   Mon Oct 5 16:23:04 2026 -0300
+
+    Agregada imagen alimento
+
+[33mcommit 9906ac37e40c2571e447a3a2e558d6a2bd0e7014[m
+Author: Martina <martuferreras4@gmail.com>
+Date:   Mon Oct 5 16:22:30 2026 -0300
+
+    Agregados los productos
+
+[33mcommit b3177a5d8c8320ac63215865f918a59dfe2a6b4d[m
+Author: Martina <martuferreras4@gmail.com>
+Date:   Mon Oct 5 16:22:00 2026 -0300
+
+    Creado archivo stock inicial
+
+[33mcommit 24d2e47063737c1d3be44cba8738cffdf8f4994a[m[33m ([m[1;32mSupervisorGeneral[m[33m)[m
+Author: Martina <martuferreras4@gmail.com>
+Date:   Mon Oct 5 15:41:51 2026 -0300
+
+    Archivos anadidos
