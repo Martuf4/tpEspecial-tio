@@ -2,8 +2,10 @@ El repartidor comenzara su recorrido organizado por zonas.
 
 ZONAS: A,B,C,D,E,F.
 
-A: VILLA AGUIRRE:
-B: VILLA ITALIA 
-C: LA MOVEDIZA
-D: MICROCENTRO 
-E: CERRITO 
+A: VILLA AGUIRRE. Realizado
+B: VILLA ITALIA . Realizado 
+C: LA MOVEDIZA. Realizado
+D: MICROCENTRO. Productos faltantes.
+E: CERRITO. Local cerrado. 
+
+REVISADO.  
